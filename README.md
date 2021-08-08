@@ -1,1 +1,1 @@
-# coachtech-databaseSekkeiTraning
+# coachtech-データベース設計
